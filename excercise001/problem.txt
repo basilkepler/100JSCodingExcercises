@@ -1,0 +1,1 @@
+write a function that takes a word as input and returns the lenght of the word 

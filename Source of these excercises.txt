@@ -1,0 +1,7 @@
+there is a course called 100 Python Challenges to Boost Your Python Skills..
+this is a udemy course i downloaded from warez-bb.org
+
+i am using the coding excercises ( for python ) given in these course and solve them by writing javascript code.
+
+i will also be maintaining a notebook of - javascript snippets to memorize - as i go through these excercises.
+
